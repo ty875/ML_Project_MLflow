@@ -1,8 +1,8 @@
 COLUMN:
   fixed acidity: float64
   volatile acidity: float64
-  citric acid: 	float64
-  residual sugar: 	float64
+  citric acid: float64
+  residual sugar: float64
   chlorides: float64
   free sulfur dioxide: float64
   total sulfur dioxide: float64

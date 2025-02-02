@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/npccc/ML_Project_MLflow/mlruns/0/7b5224e29bf6403f9af6c269c3a2970f/artifacts
+end_time: 1738478220739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b5224e29bf6403f9af6c269c3a2970f
+run_name: amazing-cow-607
+run_uuid: 7b5224e29bf6403f9af6c269c3a2970f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738478209983
+status: 3
+tags: []
+user_id: npccc

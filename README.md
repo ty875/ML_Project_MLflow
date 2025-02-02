@@ -3,11 +3,12 @@
 
 # How to run:
 
-Clone the repository
+Clone the repository 
 
+Make sure you haev conda installed (https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 ### Step 1- create a conda environment after opening the repo
 ```bash
-conda create -n mlproj python = 3.8 -y
+conda create -n mlproj python=3.8 -y
 ```
 
 ```bash

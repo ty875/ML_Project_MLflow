@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/npccc/ML_Project_MLflow/mlruns/0/77b4c38bc5f04ac5af7b9d95f36bc258/artifacts
+end_time: 1738478209973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77b4c38bc5f04ac5af7b9d95f36bc258
+run_name: nimble-mole-450
+run_uuid: 77b4c38bc5f04ac5af7b9d95f36bc258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738478209927
+status: 3
+tags: []
+user_id: npccc
