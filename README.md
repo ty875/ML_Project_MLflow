@@ -53,11 +53,9 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLORW_TRACKING_URL
 
-export MLFLORW_TRACKING_USERNAME = 
 
-export MLFLORW_TRACKING_PASSWORD = 
+URI: 723028880044.dkr.ecr.us-east-1.amazonaws.com/mlproj
 
 ## Workflows
 
